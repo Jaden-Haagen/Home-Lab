@@ -1,7 +1,6 @@
 # Home-Lab
 
-Documentation for my home lab project that will be updated as I go, and will include things I learn while studying for my CCNA
-
+Documentation for my home lab projects. Mostly used for backing up my ccna course labs.  
 **Physical Hardware**  
 switch - Extreme Networks Summit X250-24p  
 PC1 - Windows 11 Laptop  
